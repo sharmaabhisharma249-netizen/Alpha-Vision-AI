@@ -1,0 +1,13 @@
+streamlit
+plotly
+pandas
+numpy
+yfinance
+ta
+google-generativeai
+streamlit-option-menu
+streamlit-extras
+streamlit-lottie
+fpdfimport os
+import google.generativeai as genai
+bcrypt
