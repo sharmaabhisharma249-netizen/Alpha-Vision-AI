@@ -8,6 +8,5 @@ google-generativeai
 streamlit-option-menu
 streamlit-extras
 streamlit-lottie
-fpdfimport os
-import google.generativeai as genai
+fpdf
 bcrypt
