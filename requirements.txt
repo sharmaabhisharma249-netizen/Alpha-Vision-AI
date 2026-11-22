@@ -8,5 +8,5 @@ google-generativeai
 streamlit-option-menu
 streamlit-extras
 streamlit-lottie
-fpdf
+feedparser
 bcrypt
